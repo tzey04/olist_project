@@ -25,6 +25,16 @@ olist_project/
 ├── requirements.txt
 └── README.md
 ```
+### 关键图表预览
+
+**月度销售趋势**
+![月度销售趋势](figures/monthly_sales.png)
+
+**客户分层(RFM)**
+![客户分层](figures/rfm_segments.png)
+
+**配送时效与满意度关系**
+![配送时效与满意度](figures/delivery_vs_review.png)
 
 ## 技术栈
 
